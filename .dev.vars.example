@@ -1,0 +1,13 @@
+# Load .env.development* files when running `wrangler dev`
+NEXTJS_ENV=development
+
+# https://orm.drizzle.team/docs/guides/d1-http-with-drizzle-kit
+CLOUDFLARE_ACCOUNT_ID=
+CLOUDFLARE_D1_DATABASE_ID=
+CLOUDFLARE_D1_TOKEN=
+
+# https://www.better-auth.com/docs/installation#set-environment-variables
+BETTER_AUTH_SECRET=
+
+# https://resend.com/api-keys
+RESEND_API_KEY=
